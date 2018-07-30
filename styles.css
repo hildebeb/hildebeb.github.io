@@ -1,0 +1,25 @@
+html, body {
+    background-color: lightgray;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    max-width: 800px;
+    margin: auto;
+
+}
+
+#main {
+    display: block;
+}
+
+#title h1 {
+    color: red;
+    text-align: center;
+}
+
+#img-div{
+    
+}
+
+#image {
+    
+    
+}
