@@ -22,3 +22,12 @@ html, body {
     height: auto;
     text-align: center;
 }
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
