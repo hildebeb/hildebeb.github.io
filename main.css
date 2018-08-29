@@ -73,7 +73,7 @@ nav {
 	display: flex;
 	flex-direction: column;
 	flex: 1;
-	background-image: url(images/arrows-1557398_1920.jpg);
+	background-image: url(../images/arrows-1557398_1920.jpg);
 	background-repeat: no-repeat;
 	filter: alpha(Opacity=60);
 	opacity: 0.6;
